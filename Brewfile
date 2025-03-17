@@ -17,6 +17,5 @@ cask "adguard-vpn"
 cask "aldente"
 cask "font-hack-nerd-font"
 cask "telegram"
-cask "zed"
+cask "visual-studio-code"
 mas "Klack", id: 6446206067
-mas "Xcode", id: 497799835
